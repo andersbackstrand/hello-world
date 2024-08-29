@@ -1,7 +1,7 @@
 CREATE OR REPLACE PACKAGE BODY SPST.customer_activity_job as
 /******************************************************************************
    NAME:       customer_activity_job --TEST
-   PURPOSE:
+   PURPOSE:    TEST 3.
 
    REVISIONS:
    Ver        Date        Author           Description
